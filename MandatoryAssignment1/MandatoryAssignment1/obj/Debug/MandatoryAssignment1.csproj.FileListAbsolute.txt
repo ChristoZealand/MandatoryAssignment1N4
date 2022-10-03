@@ -1,0 +1,12 @@
+D:\Hjemme programmering\MandatoryAssignment1\MandatoryAssignment1\bin\Debug\MandatoryAssignment1.dll
+D:\Hjemme programmering\MandatoryAssignment1\MandatoryAssignment1\bin\Debug\MandatoryAssignment1.pdb
+D:\Hjemme programmering\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\MandatoryAssignment1.csproj.AssemblyReference.cache
+D:\Hjemme programmering\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\MandatoryAssignment1.csproj.CoreCompileInputs.cache
+D:\Hjemme programmering\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\MandatoryAssignment1.dll
+D:\Hjemme programmering\MandatoryAssignment1\MandatoryAssignment1\obj\Debug\MandatoryAssignment1.pdb
+D:\Hjemme programmering\MandatoryAssignments\MandatoryAssignment1og4\MandatoryAssignment1\bin\Debug\MandatoryAssignment1.dll
+D:\Hjemme programmering\MandatoryAssignments\MandatoryAssignment1og4\MandatoryAssignment1\bin\Debug\MandatoryAssignment1.pdb
+D:\Hjemme programmering\MandatoryAssignments\MandatoryAssignment1og4\MandatoryAssignment1\obj\Debug\MandatoryAssignment1.csproj.AssemblyReference.cache
+D:\Hjemme programmering\MandatoryAssignments\MandatoryAssignment1og4\MandatoryAssignment1\obj\Debug\MandatoryAssignment1.csproj.CoreCompileInputs.cache
+D:\Hjemme programmering\MandatoryAssignments\MandatoryAssignment1og4\MandatoryAssignment1\obj\Debug\MandatoryAssignment1.dll
+D:\Hjemme programmering\MandatoryAssignments\MandatoryAssignment1og4\MandatoryAssignment1\obj\Debug\MandatoryAssignment1.pdb
